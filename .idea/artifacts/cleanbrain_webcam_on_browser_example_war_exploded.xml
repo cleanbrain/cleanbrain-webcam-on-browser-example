@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="cleanbrain-webcam-on-browser-example:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cleanbrain_webcam_on_browser_example_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="cleanbrain-webcam-on-browser-example" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="cleanbrain-webcam-on-browser-example/web/Web" />
+    </root>
+  </artifact>
+</component>
