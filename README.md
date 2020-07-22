@@ -1,1 +1,1 @@
-# cleanbrain-webcam-on-browser-example
+# webcam-on-browser-example
